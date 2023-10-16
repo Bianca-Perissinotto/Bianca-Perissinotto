@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Bianca-Perissinotto">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bianca-Perissintto&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bianca-Perissinotto&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-Perissinotto&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
     
